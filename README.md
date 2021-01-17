@@ -10,7 +10,7 @@ A clone of the mini game that is in Among Us where the goal is to connect the wi
 
 The cool thing is that this project only use HTML, CSS, SVG and Vanilla JS
 
-## :computer: Used libraries
+## :closed_book: Used libraries
 
 - [GSAP](https://cdnjs.com/libraries/gsap)
 
