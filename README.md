@@ -4,7 +4,7 @@
 
 ## :clipboard: About the project
 
-A clone of the mini game that is in Among Us where the goal is to connect the wires. Come on see the [final result](https://jhonywalker-pixel.github.io/among-us-codepad/)
+A clone of the mini game that is in Among Us where the goal is to connect the wires. Come on see the [final result](https://jhonywalker-pixel.github.io/fix-wiring-among-us/)
 
 ## :computer: Used languages
 
