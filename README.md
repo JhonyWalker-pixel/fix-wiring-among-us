@@ -16,9 +16,9 @@ The cool thing is that this project only use HTML, CSS, SVG and Vanilla JS
 
 ## :floppy_disk: Other related
 
-- [Animation of ejecting](https://jhonywalker-pixel.github.io/among-us-ejected/)
+- [Animation of ejecting](https://github.com/JhonyWalker-pixel/among-us-ejected)
 
-- [Codepad](https://jhonywalker-pixel.github.io/among-us-codepad/)
+- [Codepad](https://github.com/JhonyWalker-pixel/among-us-codepad)
 
 ## :book: License
 
